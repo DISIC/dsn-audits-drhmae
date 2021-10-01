@@ -1,7 +1,7 @@
 _merge = "deep"
 
 languageCode = 'fr-fr'
-title = 'DRH Minstère des affaires étrangères'
+title = 'DRH Ministère des affaires étrangères'
 
 [module]
 [[module.imports]]
@@ -11,5 +11,5 @@ path = 'github.com/disic/frago'
  home    = ["HTML","JSON"]
 
 [params]
-  organisation = "DRH Minstère des affaires étrangères"
+  organisation = "DRH Ministère des affaires étrangères"
   robots = "noindex, nofollow"

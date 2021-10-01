@@ -1,3 +1,3 @@
 # Audits
 
-Audits pour la DRH Minstère des affaires étrangères (DRHMAE)
+Audits pour la DRH Ministère des affaires étrangères (DRHMAE)

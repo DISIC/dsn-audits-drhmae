@@ -1,7 +1,7 @@
 _merge = "deep"
 
 languageCode = 'fr-fr'
-title = 'Délégation à la sécurité routière'
+title = 'DRH Minstère des affaires étrangères'
 
 [module]
 [[module.imports]]
@@ -11,5 +11,5 @@ path = 'github.com/disic/frago'
  home    = ["HTML","JSON"]
 
 [params]
-  organisation = "Délégation à la sécurité routière"
+  organisation = "DRH Minstère des affaires étrangères"
   robots = "noindex, nofollow"
